@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/technicalCube/static/css/main.5d02717b.css",
+    "main.js": "/technicalCube/static/js/main.2db4a732.js",
+    "static/media/png1.png": "/technicalCube/static/media/png1.8698bfecadf0d178c01b.png",
+    "static/media/Untitled1.png": "/technicalCube/static/media/Untitled1.faabef50fcae218603b4.png",
+    "static/media/Untitled3.png": "/technicalCube/static/media/Untitled3.9dd202c48c5da1467e5c.png",
+    "static/media/png2.png": "/technicalCube/static/media/png2.00248e5b6cef13a41106.png",
+    "index.html": "/technicalCube/index.html",
+    "main.5d02717b.css.map": "/technicalCube/static/css/main.5d02717b.css.map",
+    "main.2db4a732.js.map": "/technicalCube/static/js/main.2db4a732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d02717b.css",
+    "static/js/main.2db4a732.js"
+  ]
+}
